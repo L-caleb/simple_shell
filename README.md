@@ -1,6 +1,6 @@
 Simple shell Project:
 
-This is an ALX collaboration project on Shell between Lewechi Caleb & 
+This is an ALX collaboration project on Shell between Lewechi Caleb & Sherif Awofiranye
 
 Written with:
 C language
@@ -18,7 +18,7 @@ All header files should be include guarded
 Write a README with the description of the project
 
 Description:
-lewechi caleb &  Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+lewechi caleb & Sherif Awofiranye Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 Installation
 Clone this repository into your working directory. For best results, files should be compiled with GCC and the following flags: -Wall -Wextra -Werror -pedantic -std=gnu89
@@ -47,10 +47,10 @@ cd [dir]	Change the directory.
 help [built-in]	Read documentation for a built-in.
 Credits:
 
-All code written by Lewechi Caleb & 
+All code written by Lewechi Caleb & Sherif Awofiranye
 
 Authors
 👤 l-caleb
-👤 
+👤 Classified9
 
-lewechi-caleb &  @ ALX software engineering programme 2022.
+lewechi-caleb & Sherif Awofiranye @ ALX software engineering programme 2022.
